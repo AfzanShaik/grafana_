@@ -42,11 +42,3 @@ Mock data, including the metrics from the Shoe Hub company, OpenTelemetry metric
 
 You will not need to do anything other than focus on your learning! If you launch your local Grafana Stack and Prometheus, everything is set up automatically using the provided Docker Compose file.
 
-
-## More Free Courses on YouTube
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](http://www.youtube.com/@FreeTechnologyLectures)
-
-Subscribe to the Free Technology and Technology Management Courses channel for free lectures about Coding, DevOps, and Technology Management. [Here is the link to the YouTube channel](http://www.youtube.com/@FreeTechnologyLectures).
-
-
